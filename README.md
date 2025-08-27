@@ -1,3 +1,8 @@
+My notes:::: 
+Open Command Prompt:
+qpdf.exe --split-pages=n infile.pdf output-%d.pdf
+
+
 [![qpdf](logo/qpdf.svg)](https://qpdf.sourceforge.io)
 
 [![qpdf Build](https://github.com/qpdf/qpdf/workflows/QPDF%20Build/badge.svg)](https://github.com/qpdf/qpdf/actions)
